@@ -5,6 +5,7 @@ A collection of tools for working with hypergraph data structures
 # Summary
 | Name | Last Active | Described Purpose | Language(s) | Link |
 | ---- | ----------- | ----------------- | ----------- | ---- |
+| Grakn Labs | **very active** | solving complex problems through knowledge engineering -- several tools built around `grakn`, the core hypergraph database | Java, NodeJS, Python | [graknlabs org](https://github.com/graknlabs) |
 | yamafaktory / hypergraph | 4 months | hypergraph data structure library | Rust | [repo](https://github.com/yamafaktory/hypergraph) |
 | jinhuang / hyperx | 6 years | scalable framework for hypergraph processing and learning algorithms | Scala | [repo](https://github.com/jinhuang/hyperx) |
 | isislab-unisa / hypergraphs-plot | 2 years | hypergraph visualization library | JavaScript | [repo](https://github.com/isislab-unisa/hypergraphs-plot) |
