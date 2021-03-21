@@ -9,7 +9,7 @@ A collection of tools for working with hypergraph data structures
 | jinhuang / hyperx | 6 years | scalable framework for hypergraph processing and learning algorithms | Scala | [repo](https://github.com/jinhuang/hyperx) |
 | isislab-unisa / hypergraphs-plot | 2 years | hypergraph visualization library | JavaScript | [repo](https://github.com/isislab-unisa/hypergraphs-plot) |
 | bnolan / hypergraph.js | 10 years | hypergraph library as part of some work on an AI chatbot, attempts to mimick the API of hypergraphdb | JavaScript, CofeeScript | [repo](https://github.com/bnolan/hypergraph.js) |
-| hypergraphdb | 3 years | general purpose open-source data storage mechanism with several application components implemented | Java* | 
+| hypergraphdb | 3 years | general purpose open-source data storage mechanism with several application components implemented | Java* | [website](http://www.hypergraphdb.org/)
 
 ---
 
